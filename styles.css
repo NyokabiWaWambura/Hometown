@@ -1,0 +1,81 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'JetBrains Mono', monospace;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto', sans-serif;
+    background-color: #0D2818;
+    align-items: center;
+   color: greenyellow;
+  
+    
+}
+
+img {
+    width: 100px;
+}
+h3 {
+    font-family: 'Orbitron', sans-serif;
+}
+.header {
+
+ height: 150px;
+ justify-items: center;
+ padding: 100px;
+ font-size: 23px;
+ background: url(images/maasai.jpg);
+
+}
+button {
+    border-radius: 40px;
+    margin: 2px;
+    color: #020202;
+    
+}
+
+#activities {
+   display: flex;
+   justify-content: space-between;
+    
+ 
+}
+.same {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50px;
+   
+}
+#pic {
+    border-radius: 100px;
+}
+.change {
+    width: 80px;
+}
+
+.guide {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #985F99;
+    color: #16DB65;
+    
+}
+.me{
+    width: 150px;
+}
